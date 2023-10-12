@@ -47,7 +47,7 @@ If you want to add a parent or guardian to the directory, just fill in the field
 If you want to delete a contact straightforward, select the contact you want to delete from the list, and click **Delete Contact**. 
 
 There are other alternatives to deleting a contact. 
-First is by typing in the contact **Last Name** in the field, then click **Search Contact**, after which you can **Delete Contact**. 
+First is by typing in the contact **Last Name** in the field, then clicking **Search Contact**, after which you can select **Delete Contact**. 
 The second alternative is typing in the contact **Last Name** in the field, then clicking **View Contact**. 
 
 These, however, are adviseable only when there are many contacts stored in the GD, which makes finding them difficult. 
