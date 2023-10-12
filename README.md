@@ -97,8 +97,11 @@ As proposed in Assignment 1, a **unittest**, which is also built-in in **PyCharm
 As mentioned in Assignment 1, completing the U function, which stands for Update, in the CRUD method, is one way to further improve the functionality of the Guardian Directory. 
 
 Another thing to look into is the security of the data privacy of the guardians stored in the GD. 
+###
 *What software should be used in order to strengthen the cyber security of the GD?* 
+###
 *How long should the contacts be stored in the directory?*
+###
 These are questions to ask in the future, when further developing the programme. 
 
 ### Purpose 
