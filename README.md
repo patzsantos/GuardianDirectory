@@ -1,6 +1,6 @@
 # Guardian Directory
 
-The Guardian Directory (GD) is a phonebook programme intended for record-keeping of the information of parents and guardians of students in Early Learning Centers (ELC) such as daycares and nurseries.
+The Guardian Directory (GD) is a phonebook programme intended for the record-keeping of the information of parents and guardians of students in Early Learning Centers (ELC) such as daycares and nurseries.
 
 The parental and guardian records kept in the GD is especially helpful in the event that correspondence with them is necessary. An example of this is, when there are any school announcements, or if teachers need to communicate with the parents or guardians, all they have to do is search for their contact information from the Guardian Directory. They can quickly reach out to them by phone, and if not, through e-mail. The address is there in case any mail, such as invitations to school events, are needed to be sent out by the ELCs.
 
