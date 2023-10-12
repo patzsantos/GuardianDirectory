@@ -35,7 +35,7 @@ In the fields, the contact information details can be viewed. The details of the
 ####
 ![AddContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/AddContact.gif)
 ####
-If you want to add a parent or guardian to the directory, just fill in the fields with contact *Last Name, First Name, Contact Number, Address, and E-mail.* Once done, click **Add Contact**. This will record their information in the GD. 
+If you want to add a parent or guardian to the directory, just fill in the fields with contact *Last Name, First Name, Contact Number, Address, and E-mail.* Once done, click **Add Contact**.
 
 ####
 ####
@@ -46,7 +46,7 @@ If you want to add a parent or guardian to the directory, just fill in the field
 ### 
 If you want to delete a contact straightforward, select the contact you want to delete from the list, and click **Delete Contact**. 
 
-There are other alternatives to the deleting a contact. 
+There are other alternatives to deleting a contact. 
 First is by typing in the contact **Last Name** in the field, then click **Search Contact**, after which you can **Delete Contact**. 
 The second alternative is typing in the contact **Last Name** in the field, then clicking **View Contact**. 
 
