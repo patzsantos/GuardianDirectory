@@ -82,7 +82,7 @@ This is the second difference from Assignment 1, where the intial proposal was t
 If you want to view a contact and their details, click **View Contact**. 
 If you want to clear the fields, click **Clear**. 
 
-These two additional functions were proposed by [michael305y](https://github.com/michael305y), who helped me, through [discuss.python.org](discuss.python.org), how to make the **Search Contact** and **Sort Contacts** functions work. 
+These two additional functions were proposed and added by [michael305y](https://github.com/michael305y), who helped me, through [discuss.python.org](discuss.python.org), how to make the **Search Contact** and **Sort Contacts** functions work. 
 
 
 #### > Exit the programme
