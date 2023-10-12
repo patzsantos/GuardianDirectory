@@ -1,11 +1,8 @@
 # Guardian Directory
 
-Guardian Directory (GD) is a phonebook programme intended for parental record-keeping in Early Learning Centers (ELC) like daycares and nurseries.
+The Guardian Directory (GD) is a phonebook programme intended for record-keeping of the information of parents and guardians of students in Early Learning Centers (ELC) such as daycares and nurseries.
 
-The GD works as a phonebook record of the contact information of parents and guardians of students in ELCs in case correspondence is necessary. 
-
-For example, if there are any school announcements, or if teachers need to communicate with the parents or guardians, they just need to search for their contact information from the Guardian Directory. 
-
+The parental and guardian records kept in the GD is especially helpful in the event that correspondence with them is necessary. An example of this is, when there are any school announcements, or if teachers need to communicate with the parents or guardians, all they have to do is search for their contact information from the Guardian Directory. They can quickly reach out to them by phone, and if not, through e-mail. The address is there in case any mail, such as invitations to school events, are needed to be sent out by the ELCs.
 
 ### Running the code
  This code was written on **PyCharm** and runs on **Python 3.11**. 
@@ -94,6 +91,8 @@ As proposed in Assignment 1, a **unittest**, which is also built-in in **PyCharm
 
 ### How to Better Improve the Code
 As mentioned in Assignment 1, completing the U function, which stands for Update, in the CRUD method, is one way to further improve the functionality of the Guardian Directory. 
+
+Another thing to look into is the security of the data privacy of the guardians stored in the GD. What software should be used in order to strengthen the cyber security of the GD? How long should the contacts be stored in the directory? These are questions to ask in the future, when further developing the programme. 
 
 ### Purpose 
 
