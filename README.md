@@ -1,8 +1,6 @@
 # Guardian Directory
 
-Guardian Directory (GD) is a phonebook programme intended for use in Early Learning Centers (ELC).
-
-This was built as a requirement in the Launching Into Computer Science Module of University of Essex Online, and serves as the Assignment Part 2 project of the course. 
+Guardian Directory (GD) is a phonebook programme intended for parental record-keeping in Early Learning Centers (ELC) like daycares and nurseries.
 
 The GD works as a phonebook record of the contact information of parents and guardians of students in ELCs in case correspondence is necessary. 
 
@@ -94,18 +92,17 @@ Click the **Exit** button to close the programme.
 As proposed in Assignment 1, a **unittest**, which is also built-in in **PyCharm** was used to test the code. The code run successfully, and the all the functions worked. 
 ![Test](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/unittest.png) 
 
-### Additional Notes
-This is my first major project in University of Essex Online, and my first ever coding output. 
-
-This is a fulfillment of my Assignment 2 requirement for the Launching Into Computer Science module of the course. 
-
 ### How to Better Improve the Code
 As mentioned in Assignment 1, completing the U function, which stands for Update, in the CRUD method, is one way to further improve the functionality of the Guardian Directory. 
 
+### Purpose 
+
+This code was built as a requirement in the Launching Into Computer Science Module of University of Essex Online, and serves as the Assignment Part 2 project of the course. 
+
 ### Credits
 
-As I mentioned earlier, a big shoutout to [michael305y](https://github.com/michael305y), who helped a great deal in not just kindly pointing out my mistakes, but was a very big help in teaching me how to make my code actually work the way I want it to. 
+As I mentioned earlier, a big shoutout to [michael305y](https://github.com/michael305y), who helped a great deal in not just kindly pointing out my mistakes, but also in teaching me how to make my code actually work the way I want it to. 
 
 The GUI of the Guardian Directory was inspired by the tutorials of [Sam CodeHub](https://www.youtube.com/watch?v=oBVzKHsA4J8&list=WL&index=1&t=78s) and [Geekedu](https://www.geekedu.org/blogs/python-game-for-kids-tkinter-address-book). 
 
-The gifs of the functions seen above were converted on [cloudconvert](https://cloudconvert.com/).
+The gifs of how the function work, as seen above, were converted on [cloudconvert](https://cloudconvert.com/).
