@@ -62,6 +62,7 @@ This change would continue to be applied in the next functions, which are **Sear
 #### > Search Contact
 
 ![SearchContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/SearchContact.gif)
+####
 If you want to search for contact information, type in the *Last Name* and click **Search Contact**. The rest of their details will then be displayed. 
 
 
