@@ -90,7 +90,7 @@ These two additional functions were proposed and added by [michael305y](https://
 Click the **Exit** button to close the programme. 
 
 ### Testing the Code
-As proposed in Assignment 1, a **unittest**, which is also built-in in **PyCharm** was used to test the code. The code run successfully, and the all the functions worked. 
+As proposed in Assignment 1, a **unittest**, which is also built-in in **PyCharm** was used to test the code. The code run successfully, and all the functions worked. 
 ![Test](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/unittest.png) 
 
 ### How to Better Improve the Code
