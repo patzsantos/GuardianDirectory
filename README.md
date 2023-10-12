@@ -1,2 +1,111 @@
-# GuardianDirectory
-Python project in UoEO LCS module. 
+# Guardian Directory
+
+Guardian Directory (GD) is a phonebook programme intended for use in Early Learning Centers (ELC).
+
+This was built as a requirement in the Launching Into Computer Science Module of University of Essex Online, and serves as the Assignment Part 2 project of the course. 
+
+The GD works as a phonebook record of the contact information of parents and guardians of students in ELCs in case correspondence is necessary. 
+
+For example, if there are any school announcements, or if teachers need to communicate with the parents or guardians, they just need to search for their contact information from the Guardian Directory. 
+
+
+### Running the code
+ This code was written on **PyCharm** and runs on **Python 3.11**. 
+
+If you are having trouble running the code in Codio, please run it on PyCharm. 
+The preview of the GUI, which was imported from **Tkinter** can also be previewed in PyCharm.
+
+Some changes to running the program has been modified and improved from the data structure and algorithm design proposal based on Assignment 1. 
+
+### Functions of the Guardian Directory
+
+#####
+**The Guardian Directory has 7 functions:**
+1) Add contact
+2) Delete contact
+3) Search contact
+4) Sort contact 
+5) View contact
+6) Clear fields
+7) Exit
+
+In the fields, the contact information details can be viewed. The details of the contact that will be asked upon listing a contact are: 
+1) Last name
+2) First name
+3) Contact Number
+4) Address
+5) E-mail
+
+#### > Add Contact
+####
+![AddContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/AddContact.gif)
+If you want to add a parent or guardian to the directory, just fill in the fields with contact *Last Name, First Name, Contact Number, Address, and E-mail.* Once done, click **Add Contact**. This will record their information in the GD. 
+
+####
+####
+
+#### > Delete Contact
+####
+![DeleteContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/DeleteContact.gif)
+### 
+If you want to delete a contact straightforward, select the contact you want to delete from the list, and click **Delete Contact**. 
+
+There are other alternatives to the deleting a contact. 
+First is by typing in the contact **Last Name** in the field, then click **Search Contact**, after which you can **Delete Contact**. 
+The second alternative is typing in the contact **Last Name** in the field, then clicking **View Contact**. 
+
+These, however, are adviseable only when there are many contacts stored in the GD, which makes finding them difficult. 
+
+Here, we can find the first difference from Assignment 1, where First Name was required to be written in the field. However, this decision to change to last name was made since it is safe to assume that the ELC employees would find it easier to look for the family name of the student in the GD. 
+
+This change would continue to be applied in the next functions, which are **Search Contact** and **Sort Contacts**.
+
+####
+####
+
+#### > Search Contact
+
+![SearchContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/SearchContact.gif)
+If you want to search for contact information, type in the *Last Name* and click **Search Contact**. The rest of their details will then be displayed. 
+
+
+#### > Sort Contacts
+
+![SortContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/SortContacts.gif)
+When you click **Sort Contacts**, the directory will be list the *Last Names* in descending order. 
+
+This is the second difference from Assignment 1, where the intial proposal was to just arrange the first names alphabetically with the sort function. 
+
+
+#### > View Contact and Clear Fields
+
+![ViewandClear](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/ViewandClear.gif)
+If you want to view a contact and their details, click **View Contact**. 
+If you want to clear the fields, click **Clear**. 
+
+These two additional functions were proposed by [michael305y](https://github.com/michael305y), who helped me, through [discuss.python.org](discuss.python.org), how to make the **Search Contact** and **Sort Contacts** functions work. 
+
+
+#### > Exit the programme
+
+Click the **Exit** button to close the programme. 
+
+### Testing the Code
+As proposed in Assignment 1, a **unittest**, which is also built-in in **PyCharm** was used to test the code. The code run successfully, and the all the functions worked. 
+![Test](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/unittest.png) 
+
+### Additional Notes
+This is my first major project in University of Essex Online, and my first ever coding output. 
+
+This is a fulfillment of my Assignment 2 requirement for the Launching Into Computer Science module of the course. 
+
+### How to Better Improve the Code
+As mentioned in Assignment 1, completing the U function, which stands for Update, in the CRUD method, is one way to further improve the functionality of the Guardian Directory. 
+
+### Credits
+
+As I mentioned earlier, a big shoutout to [michael305y](https://github.com/michael305y), who helped a great deal in not just kindly pointing out my mistakes, but was a very big help in teaching me how to make my code actually work the way I want it to. 
+
+The GUI of the Guardian Directory was inspired by the tutorials of [Sam CodeHub](https://www.youtube.com/watch?v=oBVzKHsA4J8&list=WL&index=1&t=78s) and [Geekedu](https://www.geekedu.org/blogs/python-game-for-kids-tkinter-address-book). 
+
+The gifs of the functions seen above were converted on [cloudconvert](https://cloudconvert.com/).
