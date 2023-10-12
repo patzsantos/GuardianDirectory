@@ -34,6 +34,7 @@ In the fields, the contact information details can be viewed. The details of the
 #### > Add Contact
 ####
 ![AddContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/AddContact.gif)
+####
 If you want to add a parent or guardian to the directory, just fill in the fields with contact *Last Name, First Name, Contact Number, Address, and E-mail.* Once done, click **Add Contact**. This will record their information in the GD. 
 
 ####
@@ -67,6 +68,7 @@ If you want to search for contact information, type in the *Last Name* and click
 #### > Sort Contacts
 
 ![SortContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/SortContacts.gif)
+####
 When you click **Sort Contacts**, the directory will be list the *Last Names* in descending order. 
 
 This is the second difference from Assignment 1, where the intial proposal was to just arrange the first names alphabetically with the sort function. 
@@ -75,6 +77,7 @@ This is the second difference from Assignment 1, where the intial proposal was t
 #### > View Contact and Clear Fields
 
 ![ViewandClear](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/ViewandClear.gif)
+####
 If you want to view a contact and their details, click **View Contact**. 
 If you want to clear the fields, click **Clear**. 
 
