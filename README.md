@@ -48,7 +48,7 @@ If you want to delete a contact straightforward, select the contact you want to 
 
 There are other alternatives to deleting a contact. 
 First is by typing in the contact **Last Name** in the field, then clicking **Search Contact**, after which you can select **Delete Contact**. 
-The second alternative is typing in the contact **Last Name** in the field, then clicking **View Contact**. 
+The second alternative is typing in the contact **Last Name** in the field, then clicking **View Contact** before selecting **Delete Contact**.
 
 These, however, are adviseable only when there are many contacts stored in the GD, which makes finding them difficult. 
 
