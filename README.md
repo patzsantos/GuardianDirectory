@@ -24,7 +24,7 @@ Some changes to running the program has been modified and improved from the data
 6) Clear fields
 7) Exit
 
-In the fields, the contact information details can be viewed. The details of the contact that will be asked upon listing a contact are: 
+In the fields, the contact information details can be viewed. The details that will be asked upon listing a contact are: 
 1) Last name
 2) First name
 3) Contact Number
