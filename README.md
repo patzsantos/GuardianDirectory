@@ -70,7 +70,7 @@ If you want to search for contact information, type in the *Last Name* and click
 
 ![SortContact](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/SortContacts.gif)
 ####
-When you click **Sort Contacts**, the directory will be list the *Last Names* in descending order. 
+When you click **Sort Contacts**, the directory will list the *Last Names* in descending order. 
 
 This is the second difference from Assignment 1, where the intial proposal was to just arrange the first names alphabetically with the sort function. 
 
