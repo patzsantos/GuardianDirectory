@@ -48,7 +48,7 @@ If you want to delete a contact straightforward, select the contact you want to 
 
 There are other alternatives to deleting a contact. 
 First is by typing in the contact **Last Name** in the field, then clicking **Search Contact**, after which you can select **Delete Contact**. 
-The second alternative is typing in the contact **Last Name** in the field, then clicking **View Contact** before selecting **Delete Contact**.
+The second alternative is typing in the contact **Last Name** in the field, then clicking **View Contact** before selecting **Delete Contact**. 
 
 These, however, are adviseable only when there are many contacts stored in the GD, which makes finding them difficult. 
 
@@ -90,7 +90,8 @@ These two additional functions were proposed and added by [michael305y](https://
 Click the **Exit** button to close the programme. 
 
 ### Testing the Code
-As proposed in Assignment 1, a **unittest**, which is also built-in in **PyCharm** was used to test the code. The code run successfully, and all the functions worked. 
+Manual Testing was used to test the code. This changed from the supposed unittest that was proposed in Assignment 1. The code run successfully. The GUI displays and operates the correct buttons when the programme is opened, and the programme can be closed when the exit button is selected. 
+The programme is also able to function successfully, as it can add, delete, search, sort, view, and clear contacts. 
 ![Test](https://raw.githubusercontent.com/patzsantos/GuardianDirectory/main/GD_Screenshots/unittest.png) 
 
 ### How to Better Improve the Code
