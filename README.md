@@ -52,7 +52,7 @@ The second alternative is typing in the contact **Last Name** in the field, then
 
 These, however, are adviseable only when there are many contacts stored in the GD, which makes finding them difficult. 
 
-Here, we can find the first difference from Assignment 1, where First Name was required to be written in the field. However, this decision to change to last name was made since it is safe to assume that the ELC employees would find it easier to look for the family name of the student in the GD. 
+Here, we can find the first difference from Assignment 1, where First Name was required to be written in the field. This decision to change to last name was made since it is safe to assume that the ELC employees would find it easier to look for the family name of the student in the GD. 
 
 This change would continue to be applied in the next functions, which are **Search Contact** and **Sort Contacts**.
 
